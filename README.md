@@ -57,7 +57,7 @@ cd completetodo
 ```bash
 cd server
 npm install
-npm run start
+npm start
 ```
 1. Clone the repository
 ```bash
